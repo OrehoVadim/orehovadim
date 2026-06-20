@@ -14,6 +14,8 @@ I am currently open to new opportunities in the market and am looking for a juni
 
 # 🛠️ Languages, Tools & QA Skills:
 
+![Flutter](https://img.shields.io/badge/<MESSAGE>-<#00FF01>)
+
 ## During my experience as a Level Designer, I actively performed QA tasks, reviewed technical documentation, and managed defects. Here is my tech stack and skill set with a strong focus on quality assurance:
 
 ### **🎯 QA & Project Management Experience:**
