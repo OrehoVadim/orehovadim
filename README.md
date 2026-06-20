@@ -52,3 +52,6 @@ I am currently open to new opportunities in the market and am looking for a juni
 ![Gmail](https://img.shields.io/badge/Gmail-white?logo=Gmail)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-grey?logo=WhatsApp)
 ![Telegram](https://img.shields.io/badge/Telegram-white?logo=Telegram)
+
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orehovadim&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
