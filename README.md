@@ -54,4 +54,5 @@ I am currently open to new opportunities in the market and am looking for a juni
 ![Telegram](https://img.shields.io/badge/Telegram-white?logo=Telegram)
 
 
+# Stats Card
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orehovadim&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
