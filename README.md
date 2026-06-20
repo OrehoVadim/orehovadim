@@ -14,7 +14,19 @@ I am currently open to new opportunities in the market and am looking for a juni
 
 # 🛠️ Languages, Tools & QA Skills:
 
-![Flutter](https://img.shields.io/badge/<MESSAGE>-<#00FF01>)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)![Sourcetree](https://img.shields.io/badge/Sourcetree-blue?logo=Sourcetree)
+![JIRA](https://img.shields.io/badge/Jira-blue?logo=jira)
+![TestRail](https://img.shields.io/badge/TestRail-white?logo=TestRail)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue?logo=visualstudiocode)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=MySQL)
+![Android Studio](https://img.shields.io/badge/Android_Studio-blue?logo=AndroidStudio)
+![Unity](https://img.shields.io/badge/unity-black?logo=unity)
+![C#](https://img.shields.io/badge/CSharp-purple?logo=csharp)
+![Miro](https://img.shields.io/badge/miro-yellow?logo=miro)
+![Draw.io](https://img.shields.io/badge/Draw.io-orange?logo=Draw.io)
+![Figma](https://img.shields.io/badge/Figma-purple?logo=Figma)
+![Asana](https://img.shields.io/badge/Asana-purple?logo=Asana)
+
 
 ## During my experience as a Level Designer, I actively performed QA tasks, reviewed technical documentation, and managed defects. Here is my tech stack and skill set with a strong focus on quality assurance:
 
