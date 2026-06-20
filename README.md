@@ -1,4 +1,4 @@
-![Header] (https://github.com/OrehoVadim/orehovadim/blob/main/assets/OV_QA.png)
+![Header (https://github.com/OrehoVadim/orehovadim/blob/main/assets/OV_QA.png)]
 
 About Me
 
