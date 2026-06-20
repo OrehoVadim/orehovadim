@@ -25,7 +25,7 @@ I am currently open to new opportunities in the market and am looking for a juni
 ![Miro](https://img.shields.io/badge/miro-yellow?logo=miro)
 ![Draw.io](https://img.shields.io/badge/Draw.io-orange?logo=Draw.io)
 ![Figma](https://img.shields.io/badge/Figma-purple?logo=Figma)
-![Asana](https://img.shields.io/badge/Asana-purple?logo=Asana)
+![Asana](https://img.shields.io/badge/Asana-jussberry?logo=Asana)
 
 
 ## During my experience as a Level Designer, I actively performed QA tasks, reviewed technical documentation, and managed defects. Here is my tech stack and skill set with a strong focus on quality assurance:
@@ -47,4 +47,8 @@ I am currently open to new opportunities in the market and am looking for a juni
 * **Collaboration:** **Asana** and Confluence.
 
 
-Follow Me
+# Follow Me:
+![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin)
+![Gmail](https://img.shields.io/badge/Gmail-white?logo=Gmail)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-grey?logo=WhatsApp)
+![Telegram](https://img.shields.io/badge/Telegram-white?logo=Telegram)
