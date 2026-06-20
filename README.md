@@ -1,7 +1,7 @@
 ![Header](https://github.com/OrehoVadim/orehovadim/blob/main/assets/OV_QA.png)
 
 
-# Objective:
+# 🔍 Objective & Career Goals:
 ## I am an aspiring QA Engineer with a solid background in Level Design, bringing a unique perspective to game and software testing. My experience in level design allows me to deeply understand mechanics and documentation from the inside out, making my bug hunting highly efficient.
 
 ### **What I do best:**
@@ -12,7 +12,7 @@
 I am currently open to new opportunities in the market and am looking for a junior QA position within a professional IT/Gamedev team where I can apply my skills, learn daily, and grow rapidly.
 
 
-# 🛠️ Languages, Tools & QA Skills
+# 🛠️ Languages, Tools & QA Skills:
 
 ## During my experience as a Level Designer, I actively performed QA tasks, reviewed technical documentation, and managed defects. Here is my tech stack and skill set with a strong focus on quality assurance:
 
