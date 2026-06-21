@@ -14,12 +14,13 @@ I am currently open to new opportunities in the market and am looking for a juni
 
 # 🛠️ Languages, Tools & QA Skills:
 
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)![Sourcetree](https://img.shields.io/badge/Sourcetree-blue?logo=Sourcetree)
 ![JIRA](https://img.shields.io/badge/Jira-blue?logo=jira)
 ![TestRail](https://img.shields.io/badge/TestRail-white?logo=TestRail)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue?logo=visualstudiocode)
+![Confluence](https://img.shields.io/badge/Confluence-blue?logo=Confluence)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=MySQL)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-blue?logo=AndroidStudio)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)![Sourcetree](https://img.shields.io/badge/Sourcetree-blue?logo=Sourcetree)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue?logo=visualstudiocode)
 ![Unity](https://img.shields.io/badge/unity-black?logo=unity)
 ![C#](https://img.shields.io/badge/CSharp-purple?logo=csharp)
 ![Miro](https://img.shields.io/badge/miro-yellow?logo=miro)
