@@ -61,5 +61,5 @@ Creating clear, detailed, and actionable bug reports to help the team fix issues
 ![Telegram](https://img.shields.io/badge/Telegram-white?logo=Telegram)
 
 
-## Stats Cart
+## Stats Cart:
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orehovadim&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
