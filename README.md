@@ -2,7 +2,8 @@
 
 
 # 🔍 Objective & Career Goals:
-## I am an aspiring QA Engineer with a solid background in Level Design, bringing a unique perspective to game and software testing. My experience in level design allows me to deeply understand mechanics and documentation from the inside out, making my bug hunting highly efficient.
+## I am a QA Engineer with a solid background in Level Design, bringing a unique perspective to game and software testing.
+## My experience in level design allows me to deeply understand mechanics and documentation from the inside out, making my bug hunting highly efficient.
 
 ### **What I do best:**
 ***Mechanics & Level Testing:** Checking level layouts, logic, and gameplay mechanics to ensure they work as intended.
