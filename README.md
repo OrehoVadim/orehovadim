@@ -6,14 +6,14 @@
 ## My experience in level design allows me to deeply understand mechanics and documentation from the inside out, making my bug hunting highly efficient.
 
 ### **What I do best:**
-**Mechanics & Level Testing:** 
+* **Mechanics & Level Testing:** 
 Checking level layouts, logic, and gameplay mechanics to ensure they work as intended.
-**Documentation QA:**
+* **Documentation QA:**
 Reviewing and auditing game design and level design documentation for consistency and logical gaps.
-**Bug Tracking:**
+* **Bug Tracking:**
 Creating clear, detailed, and actionable bug reports to help the team fix issues faster.
 
-**I am currently open to new opportunities in the market and am looking for a QA or Level Designer position within a professional IT/Gamedev team where I can apply my skills, learn daily, and grow rapidly.
+## I am currently open to new opportunities in the market and am looking for a QA or Level Designer position within a professional IT/Gamedev team where I can apply my skills, learn daily, and grow rapidly.
 
 
 # 🛠️ Languages, Tools & QA Skills:
@@ -44,22 +44,22 @@ Creating clear, detailed, and actionable bug reports to help the team fix issues
 * **SDLC Knowledge:** Solid understanding of the Software Development Life Cycle, QA methodologies, and testing types.
 
 ### **🎮 Game Engines & Level Design QA:**
-* **Unity 3D:** Experience with Unity ecosystem including **ProBuilder**, **ProGrids**, **Blockout**, and **TileMaps** (testing collision boxes, level boundaries, and object logic).
+* **Unity 3D:** Experience with Unity ecosystem including **ProBuilder**, **ProGrids**, **Blockout**, and **TileMaps** (testing collision boxes, level boundaries and object logic).
 * **Game Genres Covered:** QA and level layout testing for Casual games (*Match-3, Match-2, Bubble Shooter, Physics Blast, Solitaire*) and Multiplayer projects.
 
 ### **💻 Technical & Design Tools:**
-* **Development & Databases:** Basic knowledge of **SQL**, **HTML**, **CSS**, **C#**, **UML** and code editors (**Visual Studio Code**, **Android Studio**).
+* **Development & Databases:** Basic knowledge of **SQL**, **HTML**, **CSS**, **C#**, **UML** and code editors (**Visual Studio Code** and **Android Studio**).
 * **Version Control:** Managing repositories via **Sourcetree** and **Git**.
 * **Design & Prototyping:** **Figma**, **Miro**, **Draw.io**, **Photoshop**, **Affinity Designer**, and **Blender** (for UI/UX, mind-mapping, and asset testing).
 * **Collaboration:** **Asana** and **Confluence**.
 
 
-# Follow Me:
+## Follow Me:
 ![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin)
 ![Gmail](https://img.shields.io/badge/Gmail-white?logo=Gmail)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-grey?logo=WhatsApp)
 ![Telegram](https://img.shields.io/badge/Telegram-white?logo=Telegram)
 
 
-# Stats Card
+## Stats Cart
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orehovadim&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
