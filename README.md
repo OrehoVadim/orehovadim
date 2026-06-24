@@ -33,7 +33,9 @@
 ![Asana](https://img.shields.io/badge/Asana-jussberry?logo=Asana)
 
 
-## During my experience as a Level Designer, I actively performed QA tasks, reviewed technical documentation, and managed defects. Here is my tech stack and skill set with a strong focus on quality assurance:
+## During my experience as a Level Designer, I actively performed QA tasks, reviewed technical documentation, and managed defects.
+
+# Here is my tech stack and skill set with a strong focus on quality assurance:
 
 ### **🎯 QA & Project Management Experience:**
 * **Manual Testing & Playtesting:** Comprehensive hands-on testing of gameplay mechanics, balance, and level progression.
