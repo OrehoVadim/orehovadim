@@ -38,20 +38,20 @@ Creating clear, detailed, and actionable bug reports to help the team fix issues
 ## Here is my tech stack and skill set with a strong focus on quality assurance:
 
 ### **🎯 QA & Project Management Experience:**
-** Manual Testing & Playtesting:** Comprehensive hands-on testing of gameplay mechanics, balance, and level progression.
-**Bug Tracking & Test Management:** Logging defects and managing test runs using **Jira**, **TestRail**, and **Pivotal Tracker**.
-**Game Analytics:** Analyzing player behavior data to optimize game balance, difficulty curves, and overall quality.
-**SDLC Knowledge:** Solid understanding of the Software Development Life Cycle, QA methodologies, and testing types.
+* **Manual Testing & Playtesting:** Comprehensive hands-on testing of gameplay mechanics, balance, and level progression.
+* **Bug Tracking & Test Management:** Logging defects and managing test runs using **Jira**, **TestRail**, and **Pivotal Tracker**.
+* **Game Analytics:** Analyzing player behavior data to optimize game balance, difficulty curves, and overall quality.
+* **SDLC Knowledge:** Solid understanding of the Software Development Life Cycle, QA methodologies, and testing types.
 
 ### **🎮 Game Engines & Level Design QA:**
 * **Unity 3D:** Experience with Unity ecosystem including **ProBuilder**, **ProGrids**, **Blockout**, and **TileMaps** (testing collision boxes, level boundaries, and object logic).
 * **Game Genres Covered:** QA and level layout testing for Casual games (*Match-3, Match-2, Bubble Shooter, Physics Blast, Solitaire*) and Multiplayer projects.
 
 ### **💻 Technical & Design Tools:**
-**Development & Databases:** Basic knowledge of **SQL**, **HTML**, **CSS**, **C#**, **UML** and code editors (**Visual Studio Code**, **Android Studio**).
-**Version Control:** Managing repositories via **Sourcetree** and **Git**.
-**Design & Prototyping:** **Figma**, **Miro**, **Draw.io**, **Photoshop**, **Affinity Designer**, and **Blender** (for UI/UX, mind-mapping, and asset testing).
-***Collaboration:** **Asana** and **Confluence**.
+* **Development & Databases:** Basic knowledge of **SQL**, **HTML**, **CSS**, **C#**, **UML** and code editors (**Visual Studio Code**, **Android Studio**).
+* **Version Control:** Managing repositories via **Sourcetree** and **Git**.
+* **Design & Prototyping:** **Figma**, **Miro**, **Draw.io**, **Photoshop**, **Affinity Designer**, and **Blender** (for UI/UX, mind-mapping, and asset testing).
+* **Collaboration:** **Asana** and **Confluence**.
 
 
 # Follow Me:
