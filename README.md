@@ -53,13 +53,13 @@ Creating clear, detailed, and actionable bug reports to help the team fix issues
 * **Design & Prototyping:** **Figma**, **Miro**, **Draw.io**, **Photoshop**, **Affinity Designer** and **Blender**.
 * **Collaboration:** **Asana** and **Confluence**.
 
-### **🎓 Qualifications and Courses:** 
+### **🎓 Qualifications & Courses:** 
 * **«QA Engineering from Scratch (Theory + Practice)» at Stepik (May 2026 ~ June 2026)**
 * **«C# Unity Game Developer 2D» at Udemy (March 2024 ~ April 2024)**
 * **«Level Designer» at Devtodev (June 2022 ~ July 2022)**
 * **«C# & Unity Developer Mentorship Program» (September 2023 ~ October 2024)**
-* **«Quality Assurance / Manual Testing» and «IT-English» at KIT Center ~ theory & practice ~ Kyiv, Ukraine (February 2018 ~ July 2018)**
-* **«WEB, SQL, HTML and CSS» courses at Skill Up center ~ Kyiv, Ukraine (March2017 ~ April 2017)**
+* **«Quality Assurance / Manual Testing» & «IT-English» at KIT Center ~ theory & practice ~ Kyiv, Ukraine (February 2018 ~ July 2018)**
+* **«WEB, SQL, HTML & CSS» courses at Skill Up center ~ Kyiv, Ukraine (March2017 ~ April 2017)**
 
 ### **🤝 Soft Skills:** 
 * **Exceptional attention to detail**
