@@ -7,13 +7,13 @@
 
 ### **What I do best:**
 * **Mechanics & Level Testing:** 
-Checking level layouts, logic, and gameplay mechanics to ensure they work as intended.
+Checking level layouts, logic and gameplay mechanics to ensure they work as intended.
 * **Documentation QA:**
 Reviewing and auditing game design and level design documentation for consistency and logical gaps.
 * **Bug Tracking:**
 Creating clear, detailed, and actionable bug reports to help the team fix issues faster.
 
-## I am currently open to new opportunities in the market and am looking for a QA or Level Designer position within a professional IT/Gamedev team where I can apply my skills, learn daily, and grow rapidly.
+## Currently open to new opportunities in the market and am looking for a QA position within a professional IT team where I can apply my skills, learn daily and grow rapidly.
 
 
 # 🛠️ Languages, Tools & QA Skills:
@@ -33,24 +33,24 @@ Creating clear, detailed, and actionable bug reports to help the team fix issues
 ![Asana](https://img.shields.io/badge/Asana-jussberry?logo=Asana)
 
 
-## During my experience as a Level Designer, I actively performed QA tasks, reviewed technical documentation, and managed defects.
+## During my experience as a Level Designer, I actively performed QA tasks, reviewed technical documentation and managed defects.
 
 ## Here is my tech stack and skill set with a strong focus on quality assurance:
 
 ### **🎯 QA & Project Management Experience:**
-* **Manual Testing & Playtesting:** Comprehensive hands-on testing of gameplay mechanics, balance, and level progression.
-* **Bug Tracking & Test Management:** Logging defects and managing test runs using **Jira**, **TestRail**, and **Pivotal Tracker**.
-* **Game Analytics:** Analyzing player behavior data to optimize game balance, difficulty curves, and overall quality.
-* **SDLC Knowledge:** Solid understanding of the Software Development Life Cycle, QA methodologies, and testing types.
+* **Manual Testing & Playtesting:** Comprehensive hands-on testing of gameplay mechanics, balance and level progression.
+* **Bug Tracking & Test Management:** Reporting defects and managing test runs using Jira, TestRail and Pivotal Tracker.
+* **Game Analytics:** Analyzing player behavior data to optimize game balance, difficulty curves and overall quality.
+* **SDLC & STLC Knowledge:** Understanding of Software Development and Testing Life Cycle, QA methodologies and testing types.
 
 ### **🎮 Game Engines & Level Design QA:**
-* **Unity 3D:** Experience with Unity ecosystem including **ProBuilder**, **ProGrids**, **Blockout**, and **TileMaps** (testing collision boxes, level boundaries and object logic).
-* **Game Genres Covered:** QA and level layout testing for Casual games (*Match-3, Match-2, Bubble Shooter, Physics Blast, Solitaire*) and Multiplayer projects.
+* **Unity 3D:** Experience with Unity ecosystem including **ProBuilder**, **ProGrids**, **Blockout** and **TileMaps**.
+* **Game Genres Covered:** Level testing for Casual games (Match-3, Match-2, Bubble Shooter, Physics Blast, Solitaire).
 
 ### **💻 Technical & Design Tools:**
 * **Development & Databases:** Basic knowledge of **SQL**, **HTML**, **CSS**, **C#**, **UML** and code editors (**Visual Studio Code** and **Android Studio**).
 * **Version Control:** Managing repositories via **Sourcetree** and **Git**.
-* **Design & Prototyping:** **Figma**, **Miro**, **Draw.io**, **Photoshop**, **Affinity Designer**, and **Blender** (for UI/UX, mind-mapping, and asset testing).
+* **Design & Prototyping:** **Figma**, **Miro**, **Draw.io**, **Photoshop**, **Affinity Designer** and **Blender**.
 * **Collaboration:** **Asana** and **Confluence**.
 
 
