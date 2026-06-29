@@ -73,7 +73,7 @@ Creating clear, detailed, and actionable bug reports to help the team fix issues
 * **Ability to work both independently and in a team**
 * **Readiness to learn new technologies and acquire new skills**
 
-### **Languages:**
+### **🌐 Languages:**
 * **Ukrainian ~ Native**
 * **Russian ~ Native**
 * **English ~ Pre-Intermediate**
