@@ -62,16 +62,16 @@ Creating clear, detailed, and actionable bug reports to help the team fix issues
 * **«WEB, SQL, HTML & CSS» courses at Skill Up center ~ Kyiv, Ukraine (March2017 ~ April 2017)**
 
 ### **🤝 Soft Skills:** 
-* **Exceptional attention to detail**
-* **Creative and logical thinking**
-* **Strong communication skills**
-* **Initiative and proactivity**
-* **Strong sense of responsibility**
-* **Result-oriented**
-* **Ability to prioritize tasks effectively**
-* **Analytical skills and out-of-the-box**
-* **Readiness to learn and adopt new technologies**
-* **Commitment to continuous skill acquisition**
+* **Exceptional attention to detail.**
+* **Creative and logical thinking.**
+* **Strong communication skills.**
+* **Initiative and proactivity.**
+* **Strong sense of responsibility.**
+* **Result-oriented.**
+* **Ability to prioritize tasks effectively.**
+* **Analytical skills and out-of-the-box thinking.**
+* **Readiness to learn and adopt new technologies.**
+* **Commitment to continuous skill acquisition.**
 
 ### **🌐 Languages:**
 * **Ukrainian ~ Native**
