@@ -73,6 +73,11 @@ Creating clear, detailed, and actionable bug reports to help the team fix issues
 * **Ability to work both independently and in a team
 * **Readiness to learn new technologies and acquire new skills
 
+### **Languages:**
+* **Ukrainian ~ Native
+* **Russian ~ Native
+* **English ~ Pre-Intermediate 
+
 
 ## Follow Me:
 ![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin)
