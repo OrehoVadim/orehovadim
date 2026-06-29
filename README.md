@@ -70,8 +70,8 @@ Creating clear, detailed, and actionable bug reports to help the team fix issues
 * **Result-oriented**
 * **Ability to prioritize tasks effectively**
 * **Analytical skills and out-of-the-box**
-* **Ability to work both independently and in a team**
-* **Readiness to learn new technologies and acquire new skills**
+* **Readiness to learn and adopt new technologies**
+* **Commitment to continuous skill acquisition**
 
 ### **🌐 Languages:**
 * **Ukrainian ~ Native**
